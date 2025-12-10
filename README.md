@@ -51,6 +51,8 @@ influenza_management/
 2. Configure database connection (modify database connection information in `DbUtil.java`)
 3. Execute `database/init.sql` to initialize the database
 4. Run the main class `com.zl.Index` to start the application
+5. You can also run the following command in the cmd (Command Prompt) under the path of the unzipped folder to execute it.(java -cp "out\production\flu_track_sys;lib\
+mysql-connector-java-8.0.23.jar" com.zl.Index)
 
 ## Notes
 
