@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="manage_sys/src"/>
+	<classpathentry kind="lib" path="manage_sys/lib/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="manage_sys/lib/sqljdbc4.jar"/>
+	<classpathentry kind="src" path="src/com/zl"/>
+	<classpathentry kind="output" path="mange_sys/out/production/flu_track_sys"/>
+</classpath>

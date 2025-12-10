@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="influenza_management/src"/>
+	<classpathentry kind="lib" path="influenza_management/lib/mysql-connector-java-8.0.23.jar"/>
+	<classpathentry kind="lib" path="influenza_management/lib/sqljdbc4.jar"/>
+	<classpathentry kind="output" path="influenza_management/out/production/flu_track_sys"/>
+</classpath>
